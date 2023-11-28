@@ -1,0 +1,15 @@
+Package: SpinOpt
+Title: calculation of spin operator
+Version: 0.0.0.9000
+Authors@R: 
+    person("Christian", "Kuate", , "Christian.Kuate@gmail.com", role = c("aut", "cre"))
+Description: calculation of spin operator and simulating .
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: stats
+NeedsCompilation: no
+Packaged: 2023-11-20 13:59:03 UTC; ryuk
+Author: Christian Kuate [aut, cre]
+Maintainer: Christian Kuate <Christian.Kuate@gmail.com>
